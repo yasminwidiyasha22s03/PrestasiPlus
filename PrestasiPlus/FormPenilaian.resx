@@ -117,26 +117,38 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Screenshot 2025-11-03 1202232" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Screenshot 2025-11-03 1202231.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Screenshot 2025-11-03 120223" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Screenshot 2025-11-03 120223.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Screenshot 2025-11-03 1202231" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Screenshot 2025-11-03 120223.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Screenshot 2025-11-03 1202233" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Screenshot 2025-11-03 120223.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Screenshot 2025-11-03 120019" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Screenshot 2025-11-03 120019.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Screenshot 2025-11-03 115828" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Screenshot 2025-11-03 115828.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Screenshot 2025-11-03 151603" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Screenshot 2025-11-03 151603.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAm8AAAFdCAYAAABVbIqzAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        wwAADsMBx2+oZAAABkFJREFUeF7t1kENACAMADHsIhFNEzF0XNJHPfTcNwsAQIO8AQCEyBsAQIi8AQCE
+        yBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8
+        AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsA
+        QIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCE
+        yBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8
+        AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsA
+        QIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCE
+        yBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8
+        AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsA
+        QIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCE
+        yBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8
+        AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsA
+        QIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCE
+        yBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8
+        AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsA
+        QIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCE
+        yBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8
+        AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsA
+        QIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCE
+        yBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8
+        AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsA
+        QIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCE
+        yBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8
+        AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsA
+        QIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCE
+        yBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8
+        AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQIi8AQCEyBsAQMbsB650YIkq
+        AdItAAAAAElFTkSuQmCC
+</value>
   </data>
 </root>

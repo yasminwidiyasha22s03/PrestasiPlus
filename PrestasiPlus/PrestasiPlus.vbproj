@@ -72,22 +72,52 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.vb">
+    <Compile Include="FormHasil.Designer.vb">
+      <DependentUpon>FormHasil.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormHasil.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.vb">
-      <DependentUpon>Form1.vb</DependentUpon>
+    <Compile Include="FormKriteria.Designer.vb">
+      <DependentUpon>FormKriteria.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormKriteria.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.vb">
+      <DependentUpon>FormLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormPenilaian.Designer.vb">
+      <DependentUpon>FormPenilaian.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormPenilaian.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTOPSIS.Designer.vb">
+      <DependentUpon>FormTOPSIS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormTOPSIS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUtama.Designer.vb">
+      <DependentUpon>FormUtama.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormUtama.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSiswa.Designer.vb">
+      <DependentUpon>FormSiswa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormSiswa.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
       <DependentUpon>Application.myapp</DependentUpon>
-    </Compile>
-    <Compile Include="My Project\Resources.Designer.vb">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
     <Compile Include="My Project\Settings.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -96,9 +126,29 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="FormHasil.resx">
+      <DependentUpon>FormHasil.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormKriteria.resx">
+      <DependentUpon>FormKriteria.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormPenilaian.resx">
+      <DependentUpon>FormPenilaian.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTOPSIS.resx">
+      <DependentUpon>FormTOPSIS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUtama.resx">
+      <DependentUpon>FormUtama.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSiswa.resx">
+      <DependentUpon>FormSiswa.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
     </EmbeddedResource>
@@ -113,6 +163,9 @@
       <CustomToolNamespace>My</CustomToolNamespace>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Screenshot 2025-11-03 120223.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
